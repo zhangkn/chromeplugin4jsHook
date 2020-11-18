@@ -1,20 +1,6 @@
 # 写在前面
 
-我花了将近一个多月的时间断断续续写下这篇博文，并精心写下完整demo，所以转载务必保留 http://blog.haoji.me/chrome-plugin-develop.html 。本文所有涉及到的大部分代码均在这个demo里面：https://github.com/sxei/chrome-plugin-demo ，大家可以直接下载下来运行。
 
-另外，本文图片较多，请耐心等待加载完毕。
-
-本文目录：
-
-![](http://image.liuxianan.com/201707/20170710_222547_735_9922.png)
-
-demo部分截图：
-
-![](http://image.liuxianan.com/201707/20170710_223150_516_6129.png)
-
-鉴于有很多网友有交流学习Chrome插件的诉求，所以最近建了一个插件开发交流群，仅仅是为了提供一个互相交流学习的平台：
-
-![_W791xH370_](https://img.alicdn.com/tfs/TB1rvUrJpY7gK0jSZKzXXaikpXa-1582-740.png)
 
 ## 仓库说明
 
